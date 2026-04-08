@@ -60,4 +60,4 @@
 * **दिया है:** $l = 2 \text{ cm} = 0.02 \text{ m}$, $i = 2 \text{ A}$, $B = 2 \text{ T}$, $\theta = 30^\circ$
 * **हल:** $$F = 2 \times 0.02 \times 2 \times \sin(30^\circ)$$
     $$F = 2 \times 0.02 \times 2 \times 0.5$$
-    $$F = 0.04 \text{ Newton}$$
+    $$F = 0.04 \text{ fNewton}$$
