@@ -1,4 +1,4 @@
-```html
+
 <span style="color:#8E44AD"><b>वैदिक गणित (Vedic Mathematics) - एलडीसी एग्जाम 2026 तैयारी</b></span>
 ---
 [0:14](0:14) <span style="color:#3498DB"><b>परिचय व स्वागत</b></span>
