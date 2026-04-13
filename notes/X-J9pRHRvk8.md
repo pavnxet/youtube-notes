@@ -1,3 +1,0 @@
-
-
-## AI Processed Transcript
