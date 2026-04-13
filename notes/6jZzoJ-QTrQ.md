@@ -42,3 +42,150 @@ last_edited: "2026-04-13T12:22:40.376Z"
 [52:06](52:06) - डिप्थीरिया – रोगजनक, लक्षण, परीक्षण (सिक टेस्ट) एवं उपचार (DPT)  
 [55:12](55:12) - परोटसिस (काली‑खांसी) – रोग एवं उपचार (DPT)  
 [58:44](58:44) - निष्कर्ष – सभी रोगों की वर्गीकरण, प्रमुख रोगजनक, वाहक, उपचार एवं रोकथाम की संक्षिप्त समीक्षा  
+
+## AI Processed Transcript
+```html
+<span style="color:#8E44AD"><b>संक्रामक रोग</b></span> 🦠
+[0:07](0:07) **परिभाषा** – वह रोग जो एक व्यक्ति से दूसरे व्यक्ति में संक्रामक एजेंट (सूक्ष्म जीव) द्वारा फैलते हैं।  
+**वर्गीकरण** – चार मुख्य वर्ग:  
+- <span style="color:#F39C12"><b>जीवाणु जनित रोग</b></span>  
+- <span style="color:#F39C12"><b>विषाणु जनित रोग</b></span>  
+- <span style="color:#F39C12"><b>प्रोटोजोआ जनित रोग</b></span>  
+- <span style="color:#F39C12"><b>कवक (फंगी) जनित रोग</b></span>  
+
+---  
+
+<span style="color:#3498DB"><b>जीवाणु जनित रोग</b></span> 🧬
+[1:02](1:02) **मुख्य रोग** (मेमोनीक “टिंकू‑सी‑डी‑पटाखा”)  
+- <span style="color:#2ECC71">टिटेनस</span> (T)  
+- <span style="color:#2ECC71">कुश्ठ (लेप्रोसी)</span> (K)  
+- <span style="color:#2ECC71">सिफ़लिस</span> (S)  
+- <span style="color:#2ECC71">डिप्थीरिया</span> (D)  
+- <span style="color:#2ECC71">निमोनिया</span> (N)  
+- <span style="color:#2ECC71">हैजा</span> (H)  
+- <span style="color:#2ECC71">प्लेग</span> (P)  
+- <span style="color:#2ECC71">टाइफाइड</span> (T)  
+- <span style="color:#2ECC71">काली/कुत्ता खांसी</span> (K)  
+
+**त्रिक** – “टिंकू‑सी‑डी‑पटाखा”:  
+T = टिटेनस, K = कुश्ठ, C = सिफ़लिस, D = डिप्थीरिया, “पटाखा” = बिना‑सेल‑वॉल (बॉर्न) रोग।
+
+---  
+
+<span style="color:#3498DB"><b>विषाणु जनित रोग</b></span> 🧪
+[5:00](5:00) **स्मरणीय वाक्य** – “रेखा हिट‑कर‑पिछे‑छोड़ी”  
+- <span style="color:#2ECC71">रेबीज</span> (R)  
+- <span style="color:#2ECC71">खसरा (मेज़ल्स)</span> (M)  
+- <span style="color:#2ECC71">हेपेटाइटिस</span> (H)  
+- <span style="color:#2ECC71">मेनिंजाइटिस</span> (M) – कई एजन्ट (बैक्टीरिया/वायरस/फंगस) से हो सकता।  
+- <span style="color:#2ECC71">कोरोना</span> (C)  
+- <span style="color:#2ECC71">पोलियो</span> (P)  
+- <span style="color:#2ECC71">एड्स (HIV)</span> (A)  
+- <span style="color:#2ECC71">चेचक / स्वाइन‑फ्लू</span> (C)  
+- <span style="color:#2ECC71">डेंगू</span> (D)  
+- <span style="color:#2ECC71">ग्लासूआ</span> (G)  
+- <span style="color:#2ECC71">इन्फ्लुएंजा</span> (I)  
+
+---  
+
+<span style="color:#3498DB"><b>प्रोटोजोआ जनित रोग</b></span> 🦠
+[8:38](8:38) **मुख्य रोग**  
+- <span style="color:#2ECC71">अमीबायसिस</span> – अमीबा द्वारा  
+- <span style="color:#2ECC71">जायरिया</span> – <span style="color:#2ECC71">Giardia lamblia</span> (जीवाणु)  
+- <span style="color:#2ECC71">नाईटल‑स्लीप (अफ्रीकन निद्रा रोग)</span> – <span style="color:#2ECC71">Trypanosoma brucei</span> (सीसी‑मक्खी वाहक)  
+
+---  
+
+<span style="color:#3498DB"><b>कवक (फंगी) जनित रोग</b></span> 🍄
+[10:10](10:10) **मुख्य रोग**  
+- <span style="color:#2ECC71">जंघा (गंजापन)</span>  
+- <span style="color:#2ECC71">खुजली, दाद</span> – औद्योगिक/त्वचा कवक  
+
+---  
+
+<span style="color:#3498DB"><b>संक्रामक रोगों के वाहक</b></span> 🦟
+[23:40](23:40) **मुख्य वाहक एवं संबंधित रोग**  
+
+| वाहक | रोग (उदाहरण) |
+|------|----------------|
+| <span style="color:#2ECC71">घरेलू मक्खी</span> | हैजा, दस्त, टाइफाइड, अमीबायसिस |
+| <span style="color:#2ECC71">बालू‑मक्खी</span> | काली/कुत्ता खांसी |
+| <span style="color:#2ECC71">सीसी‑मक्खी</span> | अफ्रीकन निद्रा रोग |
+| <span style="color:#2ECC71">मादा एनोफ़िलिस (मच्छर)</span> | मलेरिया |
+| <span style="color:#2ECC71">एडिज‑क्यूलेक्स (डेंगू‑मच्छर)</span> | डेंगू |
+| <span style="color:#2ECC71">Culex (कोशी) मच्छर</span> | चिकनगुनिया |
+| <span style="color:#2ECC71">बिटे (हाथी‑पांव मच्छर)</span> | लिम्फेरेटिक (फाइलेरिया) |
+| <span style="color:#2ECC71">लैंगिक संबंध</span> | यौन‑संचरित रोग (एसटीडी) |
+
+---  
+
+<span style="color:#3498DB"><b>यौन‑संचरित रोग (एसटीडी) ⚠️</b></span>  
+[27:00](27:00) **मुख्य रोग एवं रोगजनक**  
+
+| रोग | रोगजनक |
+|-----|----------|
+| <span style="color:#2ECC71">सिफ़लिस</span> | <span style="color:#2ECC71">Treponema pallidum</span> |
+| <span style="color:#2ECC71">गोनोरिया / सुजाक</span> | <span style="color:#2ECC71">Neisseria gonorrhoeae</span> |
+| <span style="color:#2ECC71">ट्राइकॉमोनियासिस</span> (वजाइनल) | <span style="color:#2ECC71">Trichomonas vaginalis</span> |
+| <span style="color:#2ECC71">एड्स</span> | <span style="color:#2ECC71">HIV</span> |
+
+**रोकथाम** – कंडोम/निरोधक का प्रयोग, सुरक्षित लैंगिक व्यवहार।  
+
+---  
+
+<span style="color:#3498DB"><b>रोग‑सारणी (रोग, रोगजनक, लक्षण, विशेष)</b></span> 📊  
+[46:00](46:00) **उदाहरण स्वरूप**  
+
+| रोग | रोगजनक | प्रमुख लक्षण | विशेष (नोट) |
+|-----|----------|----------------|--------------|
+| <span style="color:#2ECC71">टाइफाइड</span> | <span style="color:#2ECC71">Salmonella typhi</span> | लगातार बुखार, सिर‑दर्द, भूख न लगना, दाने/रैश | वाहक – घरेलू मक्खी |
+| <span style="color:#2ECC71">कुश्ठ (लेप्रोसी)</span> | <span style="color:#2ECC71">Mycobacterium leprae</span> | नर्वस क्षति, त्वचा पर ढाल‑जैसे दाने | उपचार – मल्टी‑ड्रग थेरेपी (MDT) |
+| <span style="color:#2ECC71">ट्यूबरकुलोसिस (टीबी)</span> | <span style="color:#2ECC71">Mycobacterium tuberculosis</span> | खांसी (रक्त‑सहित), तेज़ बुखार, वजन घटना | टीका – BCG; DOTS (डायरेक्ट‑ऑब्ज़रवेशन ट्रीटमेंट शॉर्ट थेरेपी) |
+| <span style="color:#2ECC71">टिटेनस</span> | <span style="color:#2ECC71">Clostridium tetani</span> | मांसपेशियों में जकड़न (धनुष‑आकार) | टीका – DPT (डिप्थीरिया‑परटुसिस‑टिटेनस) |
+| <span style="color:#2ECC71">डिप्थीरिया</span> | <span style="color:#2ECC71">Corynebacterium diphtheriae</span> | गले में थ्रेशहोल्ड, सांस‑लीकेज | टीका – DPT |
+| <span style="color:#2ECC71">हैजा</span> | <span style="color:#2ECC71">Vibrio cholerae</span> | जल की कमी, शुद्ध जल‑शोथ, उल्टी‑दस्त | उपचार – ORS (ओरल रिहाइड्रेशन सॉल्ट) |
+| <span style="color:#2ECC71">निमोनिया</span> | <span style="color:#2ECC71">Streptococcus pneumoniae</span> | तेज़ बुखार, सांस‑लीकेज, खांसी | — |
+| <span style="color:#2ECC71">मलेरिया</span> | <span style="color:#2ECC71">Plasmodium spp.</span> | बुखार‑सिस्टेम (रूज), ठंड, पसीना | वाहक – एनोफ़िलिस मच्छर |
+| <span style="color:#2ECC71">डेंगू</span> | <span style="color:#2ECC71">Dengue virus</span> | तेज़ बुखार, पेट‑दर्द, रक्तस्राव | वाहक – एडिज‑क्यूलेक्स मच्छर |
+
+---  
+
+<span style="color:#3498DB"><b>भोजन‑जल संक्रमण (दूषित भोजन/जल) ⚠️</b></span>  
+[36:00](36:00) **रोग एवं रोकथाम**  
+
+| रोग | कारण | मुख्य लक्षण | रोकथाम |
+|-----|-------|-------------|----------|
+| <span style="color:#2ECC71">कोलेरा / हैजा</span> | दूषित जल/भोजन | तीव्र दस्त, तेज़ डिहाइड्रेशन | साफ़ पानी, ORS |
+| <span style="color:#2ECC71">अमीबियासिस</span> | दूषित पानी | बदहज़मी, रक्त‑युक्त दस्त | पानी का उबाल, स्वच्छता |
+| <span style="color:#2ECC71">छुआ-छूत के रोग</span> | सीधे संपर्क | त्वचा पर खुरदुरी दाने (कुष्ट) | व्यक्तिगत स्वच्छता |
+
+---  
+
+<span style="color:#3498DB"><b>टिकाकरण एवं विशेष उपचार</b></span> 💉  
+[11:00](11:00) **डिप्थीरिया/परटुसिस/टिटेनस** – DPT (डिप्थिरिया‑परटुसिस‑टिटेनस)  
+- डी = डिप्थीरिया, पी = परटुसिस (काली खांसी), टी = टिटेनस  
+- टीके का लक्ष्य: रोग की गंभीरता रोकना।  
+
+**टीबी** – DOTS (डायरेक्ट‑ऑब्ज़रवेशन ट्रीटमेंट शॉर्ट थेरेपी) + BCG (वैक़ीन) + BCG‑सहायक टीके (BCG, कैल्मेट, गुरिन)  
+
+**एड्स** – एंटी‑रेट्रोवायरल थेरेपी (ART)  
+
+**कुश्ठ** – मल्टी‑ड्रग थेरेपी (MDT)  
+
+**डेंगू** – सपोर्टिव केयर, हाइड्रेशन  
+
+---  
+
+<span style="color:#3498DB"><b>महत्वपूर्ण तिथियाँ</b></span> 📅  
+[56:00](56:00) **वर्ल्ड लेप्रोसी डे** – जनवरी का आखिरी रविवार (अक्सर 29 जनवरी)  
+[1:03:02](1:03:02) **वर्ल्ड टीबी डे** – 24 मार्च  
+
+---  
+
+<span style="color:#E74C3C"><b>⚠️ नोट:</b></span>  
+- सभी रोगों के लिये उपचार और वैक्सीन स्थानीय प्रोटोकॉल अनुसार बदल सकते हैं।  
+- परीक्षा में अक्सर **रोग – रोगजनक – वायरस/बैक्टीरिया – विवरण** की मिलान (सुमेलित करना) पूछी जाती है, इसलिए ऊपर दिया सारणी याद रखें।  
+
+---  
+
+<span style="color:#E67E22">Key Fact</span> – संक्रामक रोगों की रोकथाम में **स्वच्छता, योग्य टीके, और वैध वाहक नियंत्रण** सबसे प्रभावी उपाय हैं।
