@@ -30,7 +30,7 @@
 
 ---
 
-🧪 <span style="color:#8E44AD"><b>फास्फोरस चक्र (Phosphorus Cycle)</b></span> [28:10](28:10]
+🧪 <span style="color:#8E44AD"><b>फास्फोरस चक्र (Phosphorus Cycle)</b></span> [28:10](28:10)
 
 ---
 
