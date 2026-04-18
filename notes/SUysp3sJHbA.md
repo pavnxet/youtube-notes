@@ -18,3 +18,94 @@ The creator emphasizes a hands-on, collaborative approach (1:22 - 1:56). Rather 
 Setting narrow, well-defined tasks.
 Manually reviewing every code edit to prevent technical debt and ensure quality.
 Staying in the loop by keeping the project under version control.
+
+## AI Processed Transcript
+<span style="color:#8E44AD"><b>Claude Code परिचय और सेटअप</b></span>
+---
+[0:00](0:00) <span style="color:#3498DB"><b>कोर्स का उद्देश्य</b></span>
+- Claude Code: Anthropic द्वारा बनाया गया AI‑संचालित एजेंटिक कोडिंग टूल  
+- कोड‑एडिटर UI के बजाय टर्मिनल में चलता है → मौजूदा वर्कफ़्लो में सहज इंटीग्रेशन  
+- GitHub वर्कफ़्लो में Cloud Code के साथ कोड‑रिव्यू, पुल‑रिक्वेस्ट फ़ीडबैक, और ओपन इश्यूज़ पर स्वचालित काम  
+
+[0:57](0:57) <span style="color:#3498DB"><b>सीखने के मुख्य चरण</b></span>
+- Claude Code को लोकल मशीन पर इंस्टॉल करना  
+- प्रोजेक्ट कॉन्टेक्स्ट देना, कोड जनरेट करना, और टार्गेटेड टास्क पर काम करना  
+- GitHub रेपो में ऑटोनॉमस इश्यू‑हैंडलिंग सेट‑अप करना  
+- MCP सर्वर, कस्टम कमांड, और सब‑एजेंट इंटीग्रेशन का प्रयोग  
+
+[1:22](1:22) <span style="color:#3498DB"><b>कोडिंग वर्कफ़्लो टिप्स</b></span>
+- AI को “लूज़” नहीं छोड़ें → बग, स्लॉपी कोड, टेक्निकल डेब्ट से बचें  
+- छोटे‑छोटे फ़ीचर पर साथ‑साथ कोड लिखें, आउटपुट की रिव्यू करें  
+- आवश्यकतानुसार मैन्युअल बदलाव करके कंट्रोल में रहें  
+
+<span style="color:#8E44AD"><b>Claude Code इंस्टॉलेशन</b></span>
+---
+[2:04](2:04) <span style="color:#3498DB"><b>Cloud Code साइन‑अप</b></span>
+- Cloud Code होमपेज → नीचे npm इंस्टॉलेशन कमांड (Windows में अब WSL की जरूरत नहीं)  
+- अकाउंट बनाएं, प्राइसिंग चुनें  
+  - **Free**: केवल Claude वेब/डेस्कटॉप, Claude Code नहीं  
+  - **Pro**: $17/माह, 5‑घंटे रीसैट लिमिट, Sonic 4 (डिफ़ॉल्ट) + Opus 4.1 (तेज़ लिमिट उपयोग)  
+  - **Max**: उच्च लिमिट, सभी नई फीचर एक्सेस  
+
+[3:10](3:10) <span style="color:#3498DB"><b>टर्मिनल में इंस्टॉल कमांड</b></span>
+- `npm install -g anthropicai/claude-code` → एंटर दबाएँ  
+- प्रोजेक्ट फ़ोल्डर में जाएँ (उदा. `shinobi`)  
+- `claude` टाइप करके Claude सत्र शुरू करें  
+
+[4:00](4:00) <span style="color:#3498DB"><b>पहली बार लॉग‑इन</b></span>
+- मोड चयन → **Dark Mode**  
+- लॉग‑इन विकल्प: **Console Account (API)** या **Subscription** → प्रॉ‑सबसक्रिप्शन चुनें → ब्राउज़र में ऑथराइज़ेशन  
+- “Login successful” → एंटर दबाएँ  
+- चेतावनी: *Claude गलतियाँ कर सकता है, कोड हमेशा रिव्यू करें*  
+
+[4:26](4:26) <span style="color:#3498DB"><b>फ़ाइल ट्रस्ट सेटिंग</b></span>
+- प्रोजेक्ट फ़ोल्डर की फ़ाइलों पर भरोसा है? → **Yes**  
+
+<span style="color:#8E44AD"><b>प्रोजेक्ट का परिचय</b></span>
+---
+[4:37](4:37) <span style="color:#3498DB"><b>Claude को प्रोजेक्ट समझाने का तरीका</b></span>
+- प्रॉम्प्ट: “Can you provide me with a summary of what this project is?”  
+- Claude ने पढ़ा:  
+  - Next.js‑आधारित ब्लॉग एप्लिकेशन  
+  - Headless CMS **Hygraph** से डेटा लोड होता है  
+  - लाइट/डार्क मोड, UI कंपोनेंट प्रीव्यू पेज  
+
+[5:31](5:31) <span style="color:#3498DB"><b>VS Code इंटीग्रेशन</b></span>
+- टर्मिनल में `claude` चलाने से VS Code एक्सटेंशन ऑटो‑इंस्टॉल होता है  
+- फीचर: Diff view, टेक्स्ट‑सेलेक्शन कॉन्टेक्स्ट, कीबोर्ड शॉर्टकट, एक्टिव टैब अवेयरनेस  
+- यदि ऑटो‑इंस्टॉल न हो → Extensions टैब → “Claude Code” सर्च → मैन्युअल इंस्टॉल  
+
+<span style="color:#8E44AD"><b>लोकल डेवलपमेंट सेटअप</b></span>
+---
+[6:18](6:18) <span style="color:#3498DB"><b>डिवेलपमेंट सर्वर चलाना</b></span>
+- टर्मिनल: `npm run dev` → localhost:3000 पर प्रोजेक्ट ओपन  
+- होमपेज: Blog बटन, UI कंपोनेंट प्रीव्यू बटन  
+
+[6:48](6:48) <span style="color:#3498DB"><b>UI कंपोनेंट प्रीव्यू</b></span>
+- हेडिंग, टेक्स्ट, बटन आदि पहले से मौजूद  
+- आगे के लेसन में Claude Code से रीयूजेबल कंपोनेंट बनवाएंगे  
+
+[7:00](7:00) <span style="color:#3498DB"><b>Blog सेक्शन</b></span>
+- ब्लॉग लिस्ट, Hygraph से डेटा, साइडबार में डमी डेटा, लाइट/डार्क टॉगल  
+
+<span style="color:#8E44AD"><b>सुरक्षित वर्कफ़्लो टिप्स</b></span>
+---
+[7:24](7:24) <span style="color:#3498DB"><b>प्रोजेक्ट चयन</b></span>
+- शुरुआती प्रयोग के लिए “throwaway” प्रोजेक्ट या Git वर्शन कंट्रोल उपयोग करें  
+
+[7:38](7:38) <span style="color:#3498DB"><b>Claude के विशेष कमांड</b></span>
+- `/terminal setup` → शिफ्ट+एंटर से नई लाइन (चैट में)  
+
+[8:01](8:01) <span style="color:#3498DB"><b>Git ब्रांच मैनेजमेंट</b></span>
+- प्रॉम्प्ट: “Switch to a new branch called `claude-edits`”  
+- Claude स्थानीय Git को समझता है → bash कमांड दिखाकर अनुमति माँगता है → **Yes** → नई ब्रांच पर स्विच  
+
+<span style="color:#8E44AD"><b>आगे की राह</b></span>
+---
+[8:37](8:37) <span style="color:#3498DB"><b>आगामी लेसन की झलक</b></span>
+- वास्तविक कोड एडिट्स, `claude.md` फ़ाइल से मेमोरी जोड़ना  
+- कोर्स का प्री‑ऑर्डर: $3 या Net Ninja Pro ($9/माह) → प्रोमो कोड से पहला महीना आधा  
+
+> **Mnemonic**: *“SET‑BRANCH‑CODE”* → **S**etup terminal, **E**nsure branch, **T**alk to Claude, **C**ode edit, **O**bserve, **D**iff, **E**nsure quality  
+
+---
