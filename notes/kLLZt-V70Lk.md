@@ -1,66 +1,53 @@
-# 🧬 <span style="color:#8E44AD">आनुवंशिकी (Genetics): एक विस्तृत परिचय</span> 🧬
+<span style="color:#8E44AD; font-size:28px; font-weight:bold;">🧬 आनुवंशिकी (Genetics): संपूर्ण अध्ययन नोट्स</span>
+
+<span style="color:#2980B9; font-size:22px; font-weight:bold;">📌 1. आनुवंशिकी का परिचय (Introduction)</span>
+
+* <span style="color:#27AE60; font-weight:bold;">आनुवंशिकी के जनक (Father of Genetics):</span> <span style="color:#E67E22; font-weight:bold;">Gregor Johann Mendel</span> [00:16](00:00:16)
+* <span style="color:#27AE60; font-weight:bold;">मेंडल का नामकरण:</span> इनको '<span style="color:#E67E22; font-weight:bold;">Gregor</span>' की उपाधि चर्च के पादरी होने के कारण मिली थी। [00:31](00:00:31)
+* <span style="color:#27AE60; font-weight:bold;">प्रयोग का पादप:</span> <span style="color:#E67E22; font-weight:bold;">Garden Pea</span> (उद्यान मटर), वैज्ञानिक नाम: <span style="color:#E67E22; font-weight:bold;">Pisum sativum</span> [01:06](00:01:06)
+* <span style="color:#27AE60; font-weight:bold;">आधुनिक आनुवंशिकी के जनक (Father of Modern Genetics):</span> <span style="color:#E67E22; font-weight:bold;">W. Bateson</span> (इन्होंने ही 'Genetics' शब्द दिया था)। [02:40](00:02:40)
+* <span style="color:#27AE60; font-weight:bold;">प्रायोगिक आनुवंशिकी के जनक (Father of Experimental Genetics):</span> <span style="color:#E67E22; font-weight:bold;">T.H. Morgan</span> (इन्होंने फल मक्खी - <span style="color:#E67E22; font-weight:bold;">Drosophila melanogaster</span> पर प्रयोग किया)। [03:34](00:03:34)
 
 ---
 
-## 👨‍🔬 <span style="color:#2E86C1">मुख्य व्यक्तित्व और महत्वपूर्ण उपाधियाँ</span>
-आनुवंशिकी के क्षेत्र में योगदान देने वाले प्रमुख वैज्ञानिक:
+<span style="color:#8E44AD; font-size:28px; font-weight:bold;">📅 2. आनुवंशिकी का काल विभाजन (Timeline)</span>
 
-| पद / उपाधि | वैज्ञानिक का नाम | महत्वपूर्ण जानकारी | टाइमस्टैम्प |
-| :--- | :--- | :--- | :--- |
-| **Father of Genetics** | <span style="color:#E67E22">Gregor Johann Mendel</span> | इन्हें 'ग्रेगर' की उपाधि चर्च में 'पादरी' होने के कारण मिली। | [00:16](00:00:16) |
-| **Father of Modern Genetics** | <span style="color:#E67E22">JB Batson</span> | इन्होंने सबसे पहले **Genetics** शब्द दिया। | [02:57](00:02:57) |
-| **Father of Experimental Genetics**| <span style="color:#E67E22">TH Morgan</span> | इन्होंने **Fruit Fly** पर प्रयोग किए। | [03:43](00:03:43) |
-
----
-
-## 🌿 <span style="color:#27AE60">मेंडल का प्रयोग और वैज्ञानिक नामकरण</span>
-मेंडल ने अपने प्रयोगों के लिए मटर के पौधे को चुना।
-
-* **प्रयोग का पादप:** Garden Pea (उद्यान मटर) [01:06](00:01:06)
-* **वैज्ञानिक नाम:** <span style="color:#C0392B">Pisum sativum</span> [01:31](00:01:31)
-
-### 📊 द्विनाम पद्धति (Binomial Nomenclature)
-वैज्ञानिक नाम में दो शब्द होते हैं:
-1. **प्रथम शब्द:** वंश (Genus)
-2. **द्वितीय शब्द:** जाति (Species)
+| <span style="color:#2980B9;">काल (Era)</span> | <span style="color:#2980B9;">मुख्य कार्य / वैज्ञानिक</span> | <span style="color:#2980B9;">Timestamp</span> |
+|---|---|---|
+| <span style="color:#E67E22;">Pre-Mendelian</span> | मेंडल से पहले के वैज्ञानिक (उदा. <span style="color:#E67E22;">Pythagoras</span>) | [05:56](00:05:56) |
+| <span style="color:#E67E22;">Mendelian</span> | मेंडल के नियम व प्रयोग | [05:56](00:05:56) |
+| <span style="color:#E67E22;">Post-Mendelian</span> | मेंडल के कार्यों की पुनः खोज (1900) | [06:05](00:06:05) |
 
 ---
 
-## ⏳ <span style="color:#D35400">आनुवंशिकी का कालानुक्रमिक वर्गीकरण</span>
-समय के आधार पर आनुवंशिकी के तीन मुख्य भाग: [05:25](00:05:25)
+<span style="color:#8E44AD; font-size:28px; font-weight:bold;">🔎 3. मेंडल के कार्यों की पुनः खोज (Rediscovery of Mendel's Laws)</span>
 
-1. **Pre-Mendelian Era:** मेंडल से पहले का समय।
-2. **Mendelian Era:** मेंडल का समय और उनकी जीवनी। [06:05](00:06:05)
-3. **Post-Mendelian Era:** <span style="color:#16A085">मेंडल के कार्यों की पुनः खोज</span> (1900)। [08:28](00:08:28)
+<span style="color:#C0392B; font-weight:bold;">⚠️ Important:</span> 1884 में मेंडल की मृत्यु के बाद 1900 में तीन वैज्ञानिकों ने स्वतंत्र रूप से पुनः खोज की। [11:33](00:11:33)
 
----
-
-## 🔍 <span style="color:#2980B9">मेंडल के कार्यों की पुनः खोज (Rediscovery)</span>
-1900 में तीन वैज्ञानिकों ने अलग-अलग देशों में खोज की: [12:04](00:12:04)
-
-| वैज्ञानिक का नाम | देश | पादप (Plant) |
-| :--- | :--- | :--- |
-| **Hugo de Vries** | Holland | <span style="color:#8E44AD">Evening Primrose</span> |
-| **Carl Correns** | Germany | <span style="color:#8E44AD">Maize</span> (मक्का) |
-| **Erich von Tschermak**| Austria | Ornamental Flowers |
+| <span style="color:#2980B9;">वैज्ञानिक</span> | <span style="color:#2980B9;">देश</span> | <span style="color:#2980B9;">पादप (Plant)</span> | <span style="color:#2980B9;">Timestamp</span> |
+|---|---|---|
+| <span style="color:#E67E22;">Hugo de Vries</span> | <span style="color:#E67E22;">Holland</span> | <span style="color:#E67E22;">Evening Primrose</span> | [12:12](00:12:12) |
+| <span style="color:#E67E22;">Carl Correns</span> | <span style="color:#E67E22;">Germany</span> | <span style="color:#E67E22;">Maize (मक्का)</span> | [12:39](00:12:39) |
+| <span style="color:#E67E22;">Erich von Tschermak</span> | <span style="color:#E67E22;">Austria</span> | <span style="color:#E67E22;">Flowers (पुष्प)</span> | [12:47](00:12:47) |
 
 ---
 
-## 📝 <span style="color:#F1C40F">आनुवंशिक शब्दावली (Genetic Terminology)</span>
+<span style="color:#8E44AD; font-size:28px; font-weight:bold;">🧠 4. शब्दावली और संरचना (Basic Terminology)</span>
 
-### 1. आनुवंशिक लक्षण (Genetic Traits) [27:27](00:27:27)
-> ऐसे लक्षण जो माता-पिता से संतान में स्थानांतरित होते हैं।
-* **विशेष नोट:** पुरुषों के कान पर बाल होना (**Holandric Trait**) **Y-Chromosome** के कारण होता है।
+* <span style="color:#27AE60; font-weight:bold;">आनुवंशिक लक्षण (Genetic Traits):</span> जनक से संतान में जाने वाले लक्षण। [27:39](00:27:39)
+* <span style="color:#27AE60; font-weight:bold;">जीन (Gene / Factor):</span> आनुवंशिकता की इकाई (Unit of Heredity)। इसे <span style="color:#E67E22; font-weight:bold;">Johannsen</span> ने परिभाषित किया। [31:06](00:31:06)
+* <span style="color:#27AE60; font-weight:bold;">कोशिका का नियंत्रणकर्ता:</span> केंद्रक (<span style="color:#E67E22; font-weight:bold;">Nucleus</span>), जिसकी खोज <span style="color:#E67E22; font-weight:bold;">Robert Brown</span> ने की। [32:45](00:32:45)
+* <span style="color:#27AE60; font-weight:bold;">गुणसूत्र (Chromosome):</span> केंद्रक में पाए जाने वाली धागेनुमा संरचनाएं। मनुष्य में <span style="color:#E67E22; font-weight:bold;">46 (23 जोड़ी)</span> होते हैं। [35:34](00:35:34)
 
-### 2. जीन (Gene) [31:06](00:31:06)
-* **इकाई:** <span style="color:#E74C3C">Unit of Heredity</span> (आनुवंशिकता की इकाई)। [37:52](00:37:52)
-* **नामकरण:** **Gene** शब्द **Johannsen** ने दिया था। [38:00](00:38:00)
-* **स्थान:** यह गुणसूत्रों (Chromosomes) पर रेखीय क्रम में होते हैं। [37:21](00:37:21)
+> <span style="color:#16A085; font-weight:bold;">🧠 Memory Trick:</span> जीन गुणसूत्रों पर <span style="color:#E67E22; font-weight:bold;">"Linear Order"</span> (रेखीय क्रम) में सजे होते हैं। [37:12](00:37:12)
 
 ---
 
-## 🧠 <span style="color:#2ECC71">Quick Revision</span>
-* **Mendel** = जनक (Genetics)।
-* **Johannsen** = जीन शब्द दिया।
-* **Nucleus** = कोशिका का मैनेजर (खोज: **Robert Brown**)।
-* **Chromosomes** = मनुष्य में 46 (23 जोड़ी)।
+<span style="color:#8E44AD; font-size:26px; font-weight:bold;">🧠 Quick Revision</span>
+
+1.  <span style="color:#E67E22;">Mendel</span> = आनुवंशिकी के जनक (मटर पर प्रयोग)। [00:16](00:00:16)
+2.  <span style="color:#E67E22;">Bateson</span> = आधुनिक आनुवंशिकी के जनक + 'Genetics' शब्द दिया। [02:57](00:02:57)
+3.  <span style="color:#E67E22;">Morgan</span> = प्रायोगिक आनुवंशिकी के जनक (फल मक्खी)। [04:15](00:04:15)
+4.  पुनः खोज करने वाले 3 देश: <span style="color:#E67E22;">Holland, Germany, Austria</span> [13:05](00:13:05)
+5.  <span style="color:#E67E22;">Gene</span> = आनुवंशिकता की इकाई (गुणसूत्रों पर स्थित)। [37:52](00:37:52)
+6.  <span style="color:#E67E22;">Nucleus</span> (केंद्रक) = कोशिका का मैनेजर (खोज: <span style="color:#E67E22;">Robert Brown</span>)। [33:04](00:33:04)
