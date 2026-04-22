@@ -35,13 +35,13 @@
 * **Gametes (युग्मक):** (T, t) और (T, T) **[08:42](00:08:42)**
 
 **Cross Result:**
-* `TT` $\rightarrow$ शुद्ध लंबे (Pure Tall)
-* `TT` $\rightarrow$ शुद्ध लंबे (Pure Tall)
-* `Tt` $\rightarrow$ संकर लंबे (Hybrid Tall)
-* `Tt` $\rightarrow$ संकर लंबे (Hybrid Tall)
+* `TT` → शुद्ध लंबे (Pure Tall)
+* `TT` → शुद्ध लंबे (Pure Tall)
+* `Tt` → संकर लंबे (Hybrid Tall)
+* `Tt` → संकर लंबे (Hybrid Tall)
 
 > **निष्कर्ष (Conclusion):** > * **Phenotype (फिनोटाइप):** सभी पादप लंबे (All Tall) प्राप्त होते हैं। **[10:04](00:10:04)**
-> * **Genotype (जीनोटाइप):** 2 TT : 2 Tt $\Rightarrow$ **1 : 1** **[11:15](00:11:15)**
+> * **Genotype (जीनोटाइप):** 2 TT : 2 Tt => **1 : 1** **[11:15](00:11:15)**
 
 ---
 
@@ -52,13 +52,13 @@
 * **Gametes (युग्मक):** (T, t) और (t, t)
 
 **Cross Result:**
-* `Tt` $\rightarrow$ संकर लंबे (Hybrid Tall)
-* `Tt` $\rightarrow$ संकर लंबे (Hybrid Tall)
-* `tt` $\rightarrow$ शुद्ध बौने (Pure Dwarf)
-* `tt` $\rightarrow$ शुद्ध बौने (Pure Dwarf)
+* `Tt` → संकर लंबे (Hybrid Tall)
+* `Tt` → संकर लंबे (Hybrid Tall)
+* `tt` → शुद्ध बौने (Pure Dwarf)
+* `tt` → शुद्ध बौने (Pure Dwarf)
 
-> **निष्कर्ष (Conclusion):** > * **Phenotype (फिनोटाइप):** 2 लंबे : 2 बौने $\Rightarrow$ **1 : 1** **[13:54](00:13:54)**
-> * **Genotype (जीनोटाइप):** 2 Tt : 2 tt $\Rightarrow$ **1 : 1** **[14:27](00:14:27)**
+> **निष्कर्ष (Conclusion):** > * **Phenotype (फिनोटाइप):** 2 लंबे : 2 बौने => **1 : 1** **[13:54](00:13:54)**
+> * **Genotype (जीनोटाइप):** 2 Tt : 2 tt => **1 : 1** **[14:27](00:14:27)**
 
 ---
 
