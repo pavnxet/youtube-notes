@@ -19,8 +19,7 @@
 ---
 
 ## <span style="color:#27AE60">📊 3. Types of Back Cross (बैक क्रॉस के प्रकार)</span>
-बैक क्रॉस मुख्य रूप से दो प्रकार का होता है। **[01:37](00:01:37)** | <span style="color:#D35400">Feature (विशेषता)</span> | <span style="color:#D35400">Out Cross (आउट क्रॉस / बहिसंकरण)</span> | <span style="color:#D35400">Test Cross (टेस्ट क्रॉस / परीक्षार्थ संकरण)</span> 
-|
+बैक क्रॉस मुख्य रूप से दो प्रकार का होता है। **[01:37](00:01:37)** | <span style="color:#D35400">Feature (विशेषता)</span> | <span style="color:#D35400">Out Cross (आउट क्रॉस / बहिसंकरण)</span> | <span style="color:#D35400">Test Cross (टेस्ट क्रॉस / परीक्षार्थ संकरण)</span> |
 | :--- | :--- | :--- |
 | **Cross With (किससे क्रॉस?)** | **F1 Generation** $\times$ **Dominant Parent** (प्रभावी जनक) | **F1 Generation** $\times$ **Recessive Parent** (अप्रभावी जनक) |
 | **Trick to Remember 🧠** | "आउट" (3 अक्षर) = "प्रभावी" (3 अक्षर) **[05:11](00:05:11)** | "टेस्ट" (4 अक्षर) = "अप्रभावी" (4 अक्षर) **[06:10](00:06:10)** |
