@@ -76,3 +76,74 @@
 
 > 🧑‍🔬 **नोट:** *Agrobacterium tumefaciens* को **"आनुवंशिक अभियांत्रिकी का अभियंता (Engineer of Genetic Engineering)"** कहा जाता है। [1:17:26](1:17:26)
 
+# 🧬 <span style="color:#8E44AD">DNA Cloning & Molecular Vectors (वाहक)</span>
+
+---
+
+### 🌟 <span style="color:#2980B9">Introduction to Cloning Vectors</span>
+डीएनए क्लोनिंग के लिए सबसे महत्वपूर्ण घटक **वाहक (Vector)** होता है, जो वांछित डीएनए खंड को परपोषी कोशिका (Host Cell) तक पहुँचाता है।
+
+* **मुख्य परपोषी कोशिकाएं (Host Cells):**
+    1.  **E. coli:** यह सबसे अधिक उपयोग किया जाने वाला **जीवाणु (Bacteria)** है। [1:20:53](01:20:53)
+    2.  **Yeast:** यह एक **कवक (Fungi)** है जिसका उपयोग उच्च स्तरीय क्लोनिंग में होता है। [1:21:00](01:21:00)
+
+---
+
+### 📊 <span style="color:#D35400">Comparison of Different Cloning Vectors</span>
+विभिन्न वाहकों की क्लोनिंग क्षमता और उनके उदाहरण नीचे दिए गए हैं: [1:09:48](01:09:48)
+
+| वाहक का नाम (Vector Name) | क्लोनिंग क्षमता (Capacity) | मुख्य उदाहरण / विशेषताएँ | टाइमस्टैम्प |
+| :--- | :--- | :--- | :--- |
+| **Plasmid** | < 15 KB | **pBR322** (सबसे उपयुक्त वाहक) | [1:01:48](01:01:48) |
+| **Bacteriophage** (जीवाणु भोजी) | 20 - 25 KB | **M13** और **Lambda ($\lambda$)** | [1:02:52](01:02:52) |
+| **Phagemid** (फास्मिड) | 5 - 25 KB | Plasmid + Bacteriophage (संकर वाहक) | [1:04:32](01:04:32) |
+| **Cosmid** (कोश्मिड) | 40 KB (40,000 bp) | उच्च क्षमता वाला संकर वाहक | [1:05:41](01:05:41) |
+| **BAC** (Bacterial Artificial Chromosome) | 100 - 300 KB | कृत्रिम गुणसूत्र (Artificial Chromosome) | [1:08:08](01:08:08) |
+| **YAC** (Yeast Artificial Chromosome) | 100 - 1000 KB | सबसे बड़े डीएनए खंडों के लिए उपयुक्त | [1:08:08](01:08:08) |
+
+> **💡 Note:** वाहकों का क्षमता के आधार पर बढ़ता क्रम: 
+> **Plasmid < Bacteriophage < Cosmid < BAC < YAC** [1:12:00](01:12:00)
+
+---
+
+### 🔬 <span style="color:#27AE60">Detailed Study: pBR322 (Plasmid)</span>
+यह जीवाणु कोशिका में पाया जाने वाला **अतिरिक्त आनुवंशिक पदार्थ (Extra-chromosomal material)** है। [1:28:51](01:28:51)
+
+* **विशेषता:** यह द्विसूत्री (Double-stranded) और वृत्ताकार (Circular) होता है। [1:29:23](01:29:23)
+* **नामकरण का अर्थ (Nomenclature):** [1:24:30](01:24:30)
+    * **P:** Plasmid
+    * **B:** Bolivar (खोजकर्ता)
+    * **R:** Rodriguez (खोजकर्ता)
+    * **322:** प्रयोग संख्या (Experiment Number)
+* **प्रतिरोधी जीन (Selectable Markers):** इसमें दो मुख्य एंटीबायोटिक प्रतिरोधी जीन पाए जाते हैं: [1:31:27](01:31:27)
+    1.  **Ampicillin ($Amp^R$)**
+    2.  **Tetracycline ($Tet^R$)**
+    * ये **Selectable Markers (वर्ण योग्य चिन्ह)** की तरह कार्य करते हैं।
+
+---
+
+### 🌿 <span style="color:#16A085">Plant Vectors & Gene Transfer</span>
+पादपों में जीन स्थानांतरण के लिए विशेष तकनीकें अपनाई जाती हैं:
+
+| श्रेणी | तकनीक / वाहक | विवरण |
+| :--- | :--- | :--- |
+| **Dicot Plants** (द्विबीज पत्री) | **Ti Plasmid** & **Ri Plasmid** | **Agrobacterium tumefaciens** से प्राप्त। [1:13:03](01:13:03) |
+| **Monocot Plants** (एक बीज पत्री) | **Vector-less Transfer** | वाहक की आवश्यकता नहीं होती। [1:14:42](01:14:42) |
+| **Direct Methods** | **Gene Gun / Micro-injection** | सीधे कोशिका के अंदर जीन डालना। [1:16:30](01:16:30) |
+
+> **🌟 Genetic Engineer of Nature:** **Agrobacterium tumefaciens** जीवाणु को आनुवंशिक अभियांत्रिकी का 'अभियंता' (Natural Genetic Engineer) कहा जाता है। [1:18:00](01:18:00)
+
+---
+
+### 🧪 <span style="color:#E74C3C">Culture Medium (संवर्धन माध्यम)</span>
+परपोषी कोशिका की वृद्धि के लिए आवश्यक पोषक तत्वों का मिश्रण।
+* **MS Media:** सबसे प्रसिद्ध संवर्धन माध्यम।
+* **खोजकर्ता:** Murashige and Skoog (मुरासिगे और स्कुग)। [1:27:41](01:27:41)
+
+---
+
+### 🧠 <span style="color:#F1C40F">Quick Revision (Key Insights)</span>
+* **Vector (वाहक):** वांछित जीन को ढोने वाली 'ट्रॉली'।
+* **Recombinant DNA:** वाहक + वांछित जीन (Desired Gene)। [1:23:21](01:23:21)
+* **Restriction Endonuclease:** डीएनए को काटने वाली 'आणविक कैंची'। [1:22:19](01:22:19)
+* **Highest Capacity:** YAC (1000 KB तक)।
