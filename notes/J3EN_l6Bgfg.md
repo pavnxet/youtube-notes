@@ -75,3 +75,60 @@
 | **6. एकबीजपत्री पादप (Monocots)** | वाहक-रहित स्थानांतरण | **माइक्रो-इंजेक्शन, जीन गन / शॉर्ट गन (बायोलिस्टिक)** विधि द्वारा जीन स्थानांतरण [1:14:42](1:14:42) |
 
 > 🧑‍🔬 **नोट:** *Agrobacterium tumefaciens* को **"आनुवंशिक अभियांत्रिकी का अभियंता (Engineer of Genetic Engineering)"** कहा जाता है। [1:17:26](1:17:26)
+
+# 🧬 DNA क्लोनिंग और वाहक (Vectors) के नोट्स
+
+यह नोट्स डीएनए क्लोनिंग में उपयोग होने वाले विभिन्न वाहकों, उनकी क्षमता और संबंधित सिद्धांतों पर आधारित हैं।
+
+---
+
+### 📋 विभिन्न वाहकों (Vectors) की तुलनात्मक तालिका
+
+| वाहक का नाम (Vector Type) | उदाहरण (Examples) | क्षमता (Cloning Capacity) |
+| :--- | :--- | :--- |
+| <span style="color:#2980B9">प्लाज्मिड (Plasmid)</span> | **pBR322** | < 15 kb |
+| <span style="color:#2980B9">जीवाणु भोजी (Bacteriophage)</span> | **M13, Lambda** | 20 - 25 kb |
+| <span style="color:#2980B9">फास्मिड (Phasmid)</span> | संकर वाहक (Hybrid) | 5 - 25 kb |
+| <span style="color:#2980B9">कोसमिड (Cosmid)</span> | - | ~ 40 kb |
+| <span style="color:#2980B9">BAC (Bacterial Artificial Chromosome)</span> | - | 100 - 1000 kb |
+| <span style="color:#2980B9">YAC (Yeast Artificial Chromosome)</span> | - | 100 - 1000 kb |
+
+---
+
+### 🔍 प्रमुख अवधारणाएं (Key Concepts)
+
+> **"वाहक (Vector) का अर्थ है, किसी वांछित जीन (Target Gene) को परपोषी कोशिका (Host Cell) तक पहुँचाने वाला माध्यम।"**
+
+* **pBR322 की संरचना [01:00:54]:**
+    * **P:** प्लाज्मिड (Plasmid)
+    * **B:** बोलीवर (Bolivar) - खोजकर्ता
+    * **R:** रोड्रीगन (Rodriguez) - खोजकर्ता
+    * **322:** प्रयोग संख्या (Experiment Number)
+* **प्रतिरोधी जीन (Resistance Genes) [01:30:22]:**
+    * **Ampicillin** ($amp^R$)
+    * **Tetracycline** ($tet^R$)
+    * ये **Selectable Markers** के रूप में कार्य करते हैं।
+
+---
+
+### 🔬 जीन स्थानांतरण की विधियाँ (Methods of Gene Transfer)
+
+1.  **वाहक युक्त (Vector-mediated):** प्लाज्मिड, बैक्टीरियोफेज आदि का उपयोग।
+2.  **वाहक रहित (Vector-less) [01:14:36]:** मुख्य रूप से एक-बीजपत्री पादपों (Monocots) के लिए:
+    * **Micro-injection:** सीधे कोशिका में जीन इंजेक्ट करना।
+    * **Gene Gun / Shotgun / कणिका बंदूक विधि:** जीन को सीधे बंदूक की सहायता से कोशिका में दागना।
+
+---
+
+### 💡 महत्वपूर्ण बिंदु (Important Points)
+
+* **आनुवंशिक अभियांत्रिकी का अभियंता (Engineer of Genetic Engineering):** *Agrobacterium tumefaciens* [01:17:36].
+* **परपोषी कोशिका (Host Cell) [01:20:21]:**
+    * **E. coli** (जीवाणु - Bacteria)
+    * **Yeast** (कवक - Fungi)
+* **संवर्धन माध्यम (Culture Medium) [01:26:31]:** पादप वृद्धि के लिए पोषक तत्व, हार्मोन और खनिजों का मिश्रण। सबसे प्रसिद्ध: **MS Media** (Murashige and Skoog) [01:27:28].
+
+---
+
+### 🧠 Quick Revision: क्लोनिंग क्षमता का क्रम
+**प्लाज्मिड (15 kb) < बैक्टीरियोफेज (25 kb) < फास्मिड (40 kb) < BAC/YAC (1000 kb)** [01:11:49]
